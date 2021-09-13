@@ -1,0 +1,27 @@
+No. of Movies --> Avg. Revenue --> Avg. Size --> Avg. IMDB Rating
+
+1. All the movies ever made by gross revenue and duration with rating impact
+2. No. of movies each year
+3. Genre of movies by rating
+4. Favorite actor by order
+
+
+title_year 
+added cy_date - 1/1/2020
+
+Genre such as 
+Action | Adventure | Fantasy | Sci-Fi
+
+
+Statistical Data Exploration
+1. Is there any relationship between movie budget and revenue ?
+2. What are the duration outliers in various genre of movies ?
+3. How is the distribution of various movie duration ?
+4. Does having more facebook likes have an impact on revenue ?
+5. Is there any relationship between facebook likes and imdb voting ? 
+6. Correlation matrix between various numerical data points ?
+7. Is the genre budget changing as the time is changing ? 
+8. What is the distribution of imdb ratings among various genre ?
+9. What is the most revenue fetching category for a movie ?
+10. Facebook ratings relationship with movie ratings 
+
