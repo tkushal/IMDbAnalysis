@@ -27,3 +27,6 @@ Statistical Exploration
 
 
 For reference: You can refer to my work !! [IMDb Analysis](https://public.tableau.com/views/IMDB-EDA/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+
+![image](https://user-images.githubusercontent.com/40695609/140492667-7e66d82c-9466-44d4-997e-e79e71e845bd.png)
